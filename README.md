@@ -14,4 +14,4 @@ Welcome to my data analyst portfolio! Here, you’ll find projects showcasing my
 
 ## Contact:
 Feel free to connect with me on :
-[LinkedIn] (https://www.linkedin.com/in/pratiksharanjan/)
+[LinkedIn](https://www.linkedin.com/in/pratiksharanjan/)
